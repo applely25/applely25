@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimGyuHa&Size=50&fontAlign=77&fontAlignY=30&animation=twinkling&desc=frontend%20Developer&descAlign=85&descAlignY=55&fontColor=FFFFFF"/>
 
 <h1>🎉김규하(kim_gyuha)🎉</h2>
+<a href="https://noiseless-dahlia-50d.notion.site/4b8cc6f718cb4db4b4d6e1907d9c5df5" target="_blank"><h2>🧑‍💻자기소개서</h2></a>
 
 <h2>📞Connect me✉️</h2>
 <img alt="Gmail" src="https://img.shields.io/badge/kimgyuha25@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-
 </div>
 
 <div align="center">
