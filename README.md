@@ -1,7 +1,7 @@
 <div align="center">
 <div>⬇️Click Header</div>
 
-<a href=https://www.notion.so/58a92d2e2db243fe809c6762d6b527c0" target="_blank">
+<a href="https://www.notion.so/58a92d2e2db243fe809c6762d6b527c0" target="_blank">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimGyuHa&Size=50&fontAlign=77&fontAlignY=30&animation=twinkling&desc=frontend%20Developer&descAlign=85&descAlignY=55&fontColor=FFFFFF"/>
 </a>
 <h1>🎉김규하(kim_gyuha)🎉</h1>
