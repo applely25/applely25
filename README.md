@@ -7,7 +7,9 @@
 <h1>🎉김규하(kim_gyuha)🎉</h1>
 
 <h2>📞Connect me✉️</h2>
-<img alt="Gmail" src="https://img.shields.io/badge/kimgyuha25@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href="mailto:kimgyuha25@gmail.com">
+   <img alt="Gmail" src="https://img.shields.io/badge/kimgyuha25@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 </div>
 
 <div align="center">
