@@ -31,7 +31,7 @@
    <h2>🎯 PROGRAMMING LANGUAGES</h2>
    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
    
    <h2>🛠️ DEVOPS TOOLS</h2>
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
