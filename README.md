@@ -8,6 +8,9 @@
 <a href="mailto:kimgyuha25@gmail.com">
    <img alt="Gmail" src="https://img.shields.io/badge/kimgyuha25@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
+<a href="https://velog.io/@kimgyuha">
+   <img alt="Velog" src="https://img.shields.io/badge/kimgyuha-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
+</a>
 
    <h2>🕸️ WEB DEV</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
