@@ -1,6 +1,7 @@
 <div align="center">
-
+<!--
    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=KimGyuHa&Size=50&fontAlign=77&fontAlignY=30&animation=twinkling&desc=frontend%20Developer&descAlign=85&descAlignY=55&fontColor=FFFFFF"/>
+-->
    
 <h1>🎉김규하(kim_gyuha)🎉</h1>
 
