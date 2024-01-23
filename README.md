@@ -29,20 +29,6 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flate&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 </div>
-<div align='center'>
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=Express&logoColor=white"/>
-	<img src="https://img.shields.io/badge/MySQL-20516F?style=flat&logo=mysql&logoColor=white"/>
-</div>
-<div align='center'>
-	<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=white">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-</div>
-<div align='center'>
-	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
-	<img src="https://img.shields.io/badge/VS%20Studio%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-	<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white"/>
-</div>
 
 <br/>
 <br/>
