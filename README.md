@@ -21,3 +21,15 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=applely25&show_icons=true&theme=vue)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applely25&layout=compact&theme=vue)|
 |---|---|
 </div>
+
+<!--
+<h2>
+   <b>📝Blog</b>
+</h2>
+
+<div>
+	
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/kimgyuha)
+
+</div>
+-->
